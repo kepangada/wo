@@ -67,13 +67,13 @@ global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289518377899'
-global.nomorown = '62895327999292'
+global.nomorbot = '6285756849101'
+global.nomorown = '6285756849107'
 global.namebot = 'WannTrue BOT'
 global.nameown = 'WannTrue'
 global.nameown1 = 'Facebook'
 global.nomorown1 = '447710173736'
-global.nomorown2 = '62895327999292'
+global.nomorown2 = '6285756849107'
 global.nomorwa = '0'
 
 /*============== Github Thanks To ==============*/
@@ -89,7 +89,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895327999292', 'WannTrue', true],
+  ['6285756849107', 'WannTrue', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -147,7 +147,7 @@ global.wm2 = '© WannTrue'
 global.wm3 = '⫹⫺ WannTrue BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Ricky`
+global.titlebot = `⫹⫺ WhatsApp Bot | By xinxin`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '「 WannTrue 」'
 
